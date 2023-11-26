@@ -1,14 +1,3 @@
-//***********************************************************//
-//** Author: Saakshi More **//
-//** University ID: N13275625 **//
-//** Date Created: October 20, 2021 **//
-//** Assignment 2: Flight Simulator Wind Speed **//
-//** UH-1000 Computer Programming for Engineers, NYUAD **//
-//** Problem: **//
-//** Wind Simulation given the simulation configuration **//
-//***********************************************************//
-
-
 #include <iostream>
 #include <fstream>	
 #include <string>
