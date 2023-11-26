@@ -145,13 +145,15 @@ The final WindSimulation.txt file will combine the corresponding magnitudes at e
 
 **Step 5: Software testing and Verification** 
 
-**Test Case 1: **
+**Test Case 1:**
+
 ![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.004.jpeg)
 
 ![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.005.png)
 
 
 **Test Case 2:** 
+
 ![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.006.jpeg)
 
 ![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.007.jpeg)
@@ -167,7 +169,8 @@ which is in agreement with the test case expected output.
 which is in agreement with the test case expected output.
 
 
-**Test Case 4:**  ![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.010.jpeg)
+**Test Case 4:**  
+![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.010.jpeg)
 
 ![](Aspose.Words.09b284a4-159b-490a-adb2-f4c73221fc29.011.jpeg)
 
